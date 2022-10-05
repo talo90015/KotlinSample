@@ -9,4 +9,6 @@ fun main() {
     isMutableList.add(5)
     println(isMutableList)
     println(isMutableList::class.java.typeName)
+    println(isMutableList.size)
+    println(isMutableList.isEmpty())
 }
