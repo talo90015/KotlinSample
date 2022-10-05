@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="When Condition">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TheList.kt" afterDir="false" />
+    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="List collection">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
@@ -47,7 +47,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TheListKt">
+  <component name="RunManager" selected="Kotlin.ForLoopKt">
     <configuration name="ConditionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionalKt" />
       <module name="KotlinSample.main" />
@@ -56,16 +56,16 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="DataTapeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTapeKt" />
+    <configuration name="DataTypeTransfromKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypeTransfromKt" />
       <module name="KotlinSample.main" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="DataTypeTransfromKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypeTransfromKt" />
+    <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
       <module name="KotlinSample.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForLoopKt" />
         <item itemvalue="Kotlin.TheListKt" />
         <item itemvalue="Kotlin.WhenConditionKt" />
         <item itemvalue="Kotlin.ConditionalKt" />
         <item itemvalue="Kotlin.DataTypeTransfromKt" />
-        <item itemvalue="Kotlin.DataTapeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664975393296</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="List collection">
+      <created>1664976353220</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664976353220</updated>
+    </task>
+    <task id="LOCAL-00009" summary="List collection">
+      <created>1664976468143</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664976468143</updated>
+    </task>
+    <task id="LOCAL-00010" summary="List collection">
+      <created>1664976573044</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664976573044</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +198,7 @@
     <MESSAGE value="Data type transform" />
     <MESSAGE value="The conditional" />
     <MESSAGE value="When Condition" />
-    <option name="LAST_COMMIT_MESSAGE" value="When Condition" />
+    <MESSAGE value="List collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="List collection" />
   </component>
 </project>
