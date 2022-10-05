@@ -11,4 +11,7 @@ fun main() {
     println(isMutableList::class.java.typeName)
     println(isMutableList.size)
     println(isMutableList.isEmpty())
+    println(isMutableList.contains(0))
+    println(isMutableList.contains(10))
+    println(isMutableList[3])
 }
