@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="The conditional">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhenCondition.kt" afterDir="false" />
+    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="When Condition">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TheList.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
@@ -47,7 +47,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.WhenConditionKt">
+  <component name="RunManager" selected="Kotlin.TheListKt">
     <configuration name="ConditionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionalKt" />
       <module name="KotlinSample.main" />
@@ -72,8 +72,8 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="TheListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheListKt" />
       <module name="KotlinSample.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TheListKt" />
         <item itemvalue="Kotlin.WhenConditionKt" />
         <item itemvalue="Kotlin.ConditionalKt" />
         <item itemvalue="Kotlin.DataTypeTransfromKt" />
         <item itemvalue="Kotlin.DataTapeKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664973545936</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="When Condition">
+      <created>1664975393296</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664975393296</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +176,7 @@
     <MESSAGE value="Basic data type" />
     <MESSAGE value="Data type transform" />
     <MESSAGE value="The conditional" />
-    <option name="LAST_COMMIT_MESSAGE" value="The conditional" />
+    <MESSAGE value="When Condition" />
+    <option name="LAST_COMMIT_MESSAGE" value="When Condition" />
   </component>
 </project>
