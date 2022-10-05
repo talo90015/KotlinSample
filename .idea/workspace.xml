@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="Basic data type">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataTypeTransfrom.kt" afterDir="false" />
+    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="Data type transform">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Conditional.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
@@ -47,7 +47,15 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.DataTypeTransfromKt">
+  <component name="RunManager" selected="Kotlin.ConditionalKt">
+    <configuration name="ConditionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalKt" />
+      <module name="KotlinSample.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration name="DataTapeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTapeKt" />
       <module name="KotlinSample.main" />
@@ -82,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ConditionalKt" />
         <item itemvalue="Kotlin.DataTypeTransfromKt" />
         <item itemvalue="Kotlin.DataTapeKt" />
         <item itemvalue="Kotlin.MainKt" />
@@ -126,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664971827108</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Data type transform">
+      <created>1664972638060</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664972638060</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +160,7 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="Value And Variable" />
     <MESSAGE value="Basic data type" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic data type" />
+    <MESSAGE value="Data type transform" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data type transform" />
   </component>
 </project>
