@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ValueAndVariable.kt" afterDir="false" />
+    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="Value And Variable">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataTape.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
@@ -47,7 +47,15 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ValueAndVariableKt">
+  <component name="RunManager" selected="Kotlin.DataTapeKt">
+    <configuration name="DataTapeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTapeKt" />
+      <module name="KotlinSample.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="KotlinSample.main" />
@@ -66,8 +74,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ValueAndVariableKt" />
+        <item itemvalue="Kotlin.DataTapeKt" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.ValueAndVariableKt" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664965255998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Value And Variable">
+      <created>1664966717511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664966717511</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Value And Variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Value And Variable" />
   </component>
 </project>
