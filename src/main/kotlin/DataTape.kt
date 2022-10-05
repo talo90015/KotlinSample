@@ -6,6 +6,7 @@ fun main() {
 
     val char = 'A'
     val string = "ABC"
+    val boolean = true
 
     println(integer)
     println(integer::class.java.typeName + "\n")
@@ -19,4 +20,6 @@ fun main() {
     println(char::class.java.typeName + "\n")
     println(string)
     println(string::class.java.typeName + "\n")
+    println(boolean)
+    println(boolean::class.java.typeName + "\n")
 }
