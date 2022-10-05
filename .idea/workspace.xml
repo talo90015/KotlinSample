@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="Basic data type">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataTypeTransfrom.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
@@ -46,9 +47,17 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.DataTapeKt">
+  <component name="RunManager" selected="Kotlin.DataTypeTransfromKt">
     <configuration name="DataTapeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTapeKt" />
+      <module name="KotlinSample.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="DataTypeTransfromKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypeTransfromKt" />
       <module name="KotlinSample.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataTypeTransfromKt" />
         <item itemvalue="Kotlin.DataTapeKt" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.ValueAndVariableKt" />
@@ -109,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664969802494</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Basic data type">
+      <created>1664971827108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664971827108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
