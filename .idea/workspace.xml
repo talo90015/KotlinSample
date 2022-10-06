@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="ExtensionFunction">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction2.kt" afterDir="false" />
+    <list default="true" id="cd641edd-d0a6-454f-9a4b-ba5a60c57c34" name="Changes" comment="ExtensionFunction2">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InterfaceFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
@@ -49,7 +49,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ExtensionFunction2Kt">
+  <component name="RunManager" selected="Kotlin.InterfaceFunctionKt">
     <configuration name="ExtensionFunction2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExtensionFunction2Kt" />
       <module name="KotlinSample.main" />
@@ -74,6 +74,14 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
+    <configuration name="InterfaceFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceFunctionKt" />
+      <module name="KotlinSample.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration name="TheClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TheClassKt" />
       <module name="KotlinSample.main" />
@@ -82,21 +90,13 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoopKt" />
-      <module name="KotlinSample.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfaceFunctionKt" />
         <item itemvalue="Kotlin.ExtensionFunction2Kt" />
         <item itemvalue="Kotlin.ExtensionFunctionKt" />
         <item itemvalue="Kotlin.TheClassKt" />
         <item itemvalue="Kotlin.FunctionKt" />
-        <item itemvalue="Kotlin.WhileLoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665053726290</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ExtensionFunction2">
+      <created>1665055024044</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665055024044</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +248,7 @@
     <MESSAGE value="Function" />
     <MESSAGE value="CLass" />
     <MESSAGE value="ExtensionFunction" />
-    <option name="LAST_COMMIT_MESSAGE" value="ExtensionFunction" />
+    <MESSAGE value="ExtensionFunction2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ExtensionFunction2" />
   </component>
 </project>
