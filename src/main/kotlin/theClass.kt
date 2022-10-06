@@ -58,10 +58,8 @@ abstract class Food(private var quantity:Int){
     }
 }
 class IceCream(quantity: Int) : Food(quantity){
-    override val name: String
-        get() = "berry iceCream"
-    override val price: Int
-        get() = 30
+    override val name: String = "berry iceCream"
+    override val price: Int = 30
 }
 class InstantNoodle(quantity: Int):Food(quantity){
     override val name: String = "seafood flavor"
